@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Swati
+# 👋 Hi, I'm Swati 🚀
 
-## About Me
+## About Me 💻
 
-I'm a passionate software developer with expertise in app and web development. I love creating beautiful and functional digital experiences. Apart from coding, I enjoy exploring various interests such as photography, reading, fitness, and culinary arts.
+I'm a passionate software developer with expertise in app and web development. I love creating beautiful and functional digital experiences. Apart from coding, I enjoy exploring various interests such as photography 📷, reading 📚, fitness 💪, and culinary arts 🍳.
 
-## Key Skills
+## Key Skills 🔧
 
 - **Programming Languages:** Java, Python, HTML, CSS, JavaScript
 - **Tools & Technologies:** Android Studios, Figma, Webflow
 - **Platforms:** Android Development, Web Development
 
-## Projects
+## Projects 🛠️
 
-### [SafeBite]([link-to-project-repo](https://github.com/codeetoadd/safebite))
+### [SafeBite](https://github.com/codeetoadd/safebite)
 
-Description: Sorry this project is private for now.
+Description: Sorry, this project is private for now.
 
 Tech Stack: Java, Android Studio, XML, etc.
 
@@ -24,7 +24,7 @@ Description: Brief description of the project.
 
 Tech Stack: HTML, CSS, JavaScript, etc.
 
-## Interests
+## Interests 🌟
 
 - **Photography:** Capturing moments and exploring different perspectives.
 - **Reading:** Constantly learning and expanding my knowledge.
@@ -32,12 +32,12 @@ Tech Stack: HTML, CSS, JavaScript, etc.
 - **Cooking:** Experimenting with new recipes and flavors.
 - **Calligraphy:** Practicing the art of beautiful handwriting.
 
-## Connect with Me
+## Connect with Me 📫
 
-- LinkedIn: [Swati Sharma]([link-to-linkedin](https://www.linkedin.com/in/dev-swati/))
+- LinkedIn: [Swati Sharma](https://www.linkedin.com/in/dev-swati/)
 - Portfolio: [Build in Process](link-to-portfolio)
 - Email: 25sharmswati@gmail.com
 
-## Let's Connect!
+## Let's Connect! 🚀
 
 Feel free to reach out if you want to collaborate on a project, chat about tech, or just say hi! 😊
