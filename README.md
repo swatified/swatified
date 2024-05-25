@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Swati
 
 ## About Me
 
@@ -6,15 +6,15 @@ I'm a passionate software developer with expertise in app and web development. I
 
 ## Key Skills
 
-- **Programming Languages:** Java, HTML, CSS, JavaScript
-- **Tools & Technologies:** Webflow, Figma, Android Studio
+- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
+- **Tools & Technologies:** Android Studios, Figma, Webflow
 - **Platforms:** Android Development, Web Development
 
 ## Projects
 
-### [Project Name](link-to-project-repo)
+### [SafeBite]([link-to-project-repo](https://github.com/codeetoadd/safebite))
 
-Description: Brief description of the project.
+Description: Sorry this project is private for now.
 
 Tech Stack: Java, Android Studio, XML, etc.
 
@@ -34,10 +34,9 @@ Tech Stack: HTML, CSS, JavaScript, etc.
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Email: your.email@example.com
+- LinkedIn: [Swati Sharma]([link-to-linkedin](https://www.linkedin.com/in/dev-swati/))
+- Portfolio: [Build in Process](link-to-portfolio)
+- Email: 25sharmswati@gmail.com
 
 ## Let's Connect!
 
