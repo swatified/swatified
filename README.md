@@ -18,11 +18,11 @@ Description: Sorry, this project is private for now.
 
 Tech Stack: Java, Android Studio, XML, etc.
 
-### [Another Project](link-to-another-project-repo)
+### [PawPals]([link-to-another-project-repo](https://pet-adoption-project-by-swati.webflow.io/))
 
-Description: Brief description of the project.
+Description: A fully functioning responsive website made in webflow with dynamic features like form submissions and multiple blog posts.
 
-Tech Stack: HTML, CSS, JavaScript, etc.
+Tech Stack: Figma, Webflow, HTML, CSS, etc.
 
 ## Interests 🌟
 
