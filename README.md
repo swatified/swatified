@@ -12,17 +12,18 @@ I'm a passionate software developer with expertise in app and web development. I
 
 ## Projects 🛠️
 
+### [PawPals]([link-to-another-project-repo](https://pet-adoption-project-by-swati.webflow.io/))
+
+Description: A fully functioning responsive website made in webflow with dynamic features like form submissions and multiple blog posts.
+
+Tech Stack: Figma, Webflow, HTML, CSS, etc.
+
 ### [SafeBite](https://github.com/codeetoadd/safebite)
 
 Description: Sorry, this project is private for now.
 
 Tech Stack: Java, Android Studio, XML, etc.
 
-### [PawPals]([link-to-another-project-repo](https://pet-adoption-project-by-swati.webflow.io/))
-
-Description: A fully functioning responsive website made in webflow with dynamic features like form submissions and multiple blog posts.
-
-Tech Stack: Figma, Webflow, HTML, CSS, etc.
 
 ## Interests 🌟
 
