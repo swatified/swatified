@@ -16,15 +16,18 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div class="badges-githubstats">
-  <p align="center">
+<div class="badges-githubstats" style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 100%; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
-    <div align="right">
-    <h3 align="center">⚒️ Technologies I've worked with ⚒️</h3>
-    <img src="https://skillicons.dev/icons?i=flask,androidstudio,figma,firebase,python,anaconda" />
-    <img src="https://skillicons.dev/icons?i=html,javascript,c,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,gradle,mysql" />
+  </div>
+  <div style="width: 100%; text-align: center; margin-top: 20px;">
+    <h3>⚒️ Technologies I've worked with ⚒️</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=flask,androidstudio,figma,firebase,python,anaconda" />
+      <img src="https://skillicons.dev/icons?i=html,javascript,c,css,github,git" />
+      <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,gradle,mysql" />
+    </div>
+  </div>
 </div>
-  </p>
-</div>
+
 <hr/>
