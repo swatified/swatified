@@ -13,4 +13,4 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" width="100%">
