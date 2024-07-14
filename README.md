@@ -10,4 +10,4 @@
     </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatifiedtheme=tokyonight&layout=compact" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&theme=tokyonight&layout=compact" width="100%">
