@@ -10,7 +10,31 @@
     </td>
   </tr>
 </table>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i= androidstudio,figma,firebase,python,flask,anaconda,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,kotlin,gradle,mysql,git" /><br>
+</div>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
+<br/>
+<hr/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" width="100%">
+<div align="center">
+  <h2> My Contributions :) </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
+    Text here
+  </p>
+</div>
