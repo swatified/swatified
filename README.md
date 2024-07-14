@@ -20,7 +20,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="270">
       </td>
       <td width="40%" align="center" valign="top">
-        <table align="center" style="opacity: 0.8;">
           <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /></td>
@@ -45,7 +44,6 @@
             <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
           </tr>
-        </table>
       </td>
     </tr>
   </table>
