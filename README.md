@@ -10,25 +10,48 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <h2> My Contributions :) </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
-</div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
+<br>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
+      <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
       </td>
-      <td>
+      <td width="50%" align="center" valign="top">
         <h3>⚒️ Technologies I've worked with ⚒️</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=flask,androidstudio,figma,firebase,anaconda" />
-          <img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,github" />
-          <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,gradle,mysql,git" />
-        </div>
+        <table>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
