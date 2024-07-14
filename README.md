@@ -10,4 +10,4 @@
     </td>
   </tr>
 </table>
-<div>>  ![Snake animation](https://github.com/swatified/swatified/blob/output/github-contribution-grid-snake.svg) </div>
+<div>  ![Snake animation](https://github.com/swatified/swatified/blob/output/github-contribution-grid-snake.svg) </div>
