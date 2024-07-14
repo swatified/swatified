@@ -17,7 +17,7 @@
   <table width="100%">
     <tr>
       <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="270">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="270">
       </td>
       <td width="40%" align="center" valign="top">
         <table>
