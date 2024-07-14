@@ -16,7 +16,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i= androidstudio,figma,firebase,python,flask,anaconda,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,kotlin,gradle,mysql,git" /><br>
+    <img src="https://skillicons.dev/icons?i= html,css,javascript,c,java,kotlin,gradle,mysql,git" /><br>
 </div>
 
 <br/>
