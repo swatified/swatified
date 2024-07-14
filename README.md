@@ -10,4 +10,4 @@
     </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&theme=tokyonight&layout=compact" width="100%">
+![Snake animation](https://github.com/swatified/swatified/blob/output/github-contribution-grid-snake.svg)
