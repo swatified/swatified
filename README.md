@@ -20,7 +20,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="270">
       </td>
       <td width="40%" align="center" valign="top">
-        <h3><u>Technologies I've worked with:</u></h3><br>
         <table align="center">
           <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
