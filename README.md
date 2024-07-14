@@ -11,15 +11,7 @@
   </tr>
 </table>
 <hr/>
- 
-<h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,firebase,python,flask,anaconda,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,kotlin,gradle,mysql,git" /><br>
-</div>
 
-<br/>
 <hr/>
 
 <div align="center">
@@ -35,6 +27,10 @@
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
-    Text here
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,androidstudio,figma,firebase,python,flask,anaconda,github,vscode" /><br
+    <img src="https://skillicons.dev/icons?i=css,javascript,c,java,kotlin,gradle,mysql,git" />>
+</div>
   </p>
 </div>
+<hr/>
