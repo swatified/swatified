@@ -16,11 +16,11 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
+      <td width="60%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" width="100%">
       </td>
-      <td width="50%" align="center" valign="top">
-        <h4><u>Technologies I've worked with:</u></h4><br>
+      <td width="40%" align="center" valign="top">
+        <h3><u>Technologies I've worked with:</u></h3><br>
         <table align="center">
           <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
