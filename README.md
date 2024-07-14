@@ -1,10 +1,16 @@
-![Swati's GitHub Banner](https://i.ibb.co/Dzs5qRQ/github-header-image-3.png)
+![Swati's GitHub Banner](https://i.ibb.co/bzC70v4/github-header-image-5.png)
 
-# 👋 Hi, I'm Swati 🚀
+I love creating beautiful and functional digital experiences. I make <u>android and web applications</u>. Apart from coding, I enjoy exploring a variety of hobbies like reading, writing, cooking, clicking pictures, and working out!
 
-## About Me 💻
+## 📈 My GitHub stats
 
-I'm a passionate software developer with expertise in app and web development. I love creating beautiful and functional digital experiences. Apart from coding, I enjoy exploring various interests such as photography 📷, reading 📚, fitness 💪, and culinary arts 🍳.
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=swatified&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Swati's Stats" height="165">
+    <img src="https://i.ibb.co/QfGZ1K1/I-are-programmer-I-make-computer-Beep-Boop-Beep-Beep-Boop-cute-cat-programmer-blue-Sticker-for-Sale.jpg" height="320">
+  </p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=swatified&theme=tokyonight&hide_border=true" alt="Swati's Streak" height="165"></p>
+</div>
 
 ## Key Skills 🔧
 
