@@ -26,28 +26,22 @@
             <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
-          </tr>
-          <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
           </tr>
           <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
-          </tr>
-          <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
           </tr>
           <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
-          </tr>
-          <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
           </tr>
