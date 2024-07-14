@@ -17,12 +17,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
-</div>
-
-<h3 align="center">⚒️ Technologies I've worked with ⚒️</h3>
-
-<div align="center">
   <table>
     <tr>
       <td>
