@@ -20,20 +20,23 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>⚒️ Technologies I've worked with ⚒️</h3>
-        <table>
+        <h4><u>Technologies I've worked with:</u></h4><br>
+        <table align="center">
           <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
           </tr>
           <tr>
+            <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
+          </tr>
+          <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
+            <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
           </tr>
@@ -42,8 +45,6 @@
             <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
           </tr>
         </table>
       </td>
