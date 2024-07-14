@@ -25,27 +25,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=flask" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&layout=compact" height="200">
+      </td>
+      <td>
+        <h3>⚒️ Technologies I've worked with ⚒️</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+          <img src="https://skillicons.dev/icons?i=flask,androidstudio,figma,firebase,anaconda" />
+          <img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,github" />
+          <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,gradle,mysql,git" />
+        </div>
+      </td>
     </tr>
   </table>
 </div>
