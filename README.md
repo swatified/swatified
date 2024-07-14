@@ -1,7 +1,3 @@
-I love creating beautiful and functional digital experiences. I make <u>android and web applications</u>. Apart from coding, I enjoy exploring a variety of hobbies like reading, writing, cooking, clicking pictures, and working out!
-
-## 📈 My GitHub stats
-
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -10,7 +6,7 @@ I love creating beautiful and functional digital experiences. I make <u>android 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatified&theme=tokyonight&hide_border=true" alt="Swati's Streak" height="165">
     </td>
     <td style="border: none;">
-      <img src="https://i.ibb.co/QfGZ1K1/I-are-programmer-I-make-computer-Beep-Boop-Beep-Beep-Boop-cute-cat-programmer-blue-Sticker-for-Sale.jpg" height="350">
+      <img src="https://i.ibb.co/QfGZ1K1/I-are-programmer-I-make-computer-Beep-Boop-Beep-Beep-Boop-cute-cat-programmer-blue-Sticker-for-Sale.jpg" height="400">
     </td>
   </tr>
 </table>
