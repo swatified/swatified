@@ -11,4 +11,4 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/swatified/swatified/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
