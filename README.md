@@ -11,5 +11,4 @@
   </tr>
 </table>
 
-
-  ![Snake animation](https://github.com/eagrundy/swatified/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/swatified/swatified/blob/output/github-contribution-grid-snake.svg)
