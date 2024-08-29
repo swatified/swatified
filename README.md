@@ -6,7 +6,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatified&theme=tokyonight&hide_border=true" alt="Swati's Streak" width="100%" style="margin-top: 10px;">
     </td>
     <td style="border: none; width: 50%;">
-      <img src="https://i.ibb.co/QfGZ1K1/I-are-programmer-I-make-computer-Beep-Boop-Beep-Beep-Boop-cute-cat-programmer-blue-Sticker-for-Sale.jpg](https://i.ibb.co/Qj9Xvvx/69684b62bc72d19642273491b51fcee0.jpg" height="400">
+      <img src="https://i.ibb.co/Qj9Xvvx/69684b62bc72d19642273491b51fcee0.jpg" height="400">
     </td>
   </tr>
 </table>
