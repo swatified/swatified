@@ -10,6 +10,9 @@
     </td>
   </tr>
 </table>
+
+[![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
 
