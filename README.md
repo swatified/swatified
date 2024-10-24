@@ -54,6 +54,6 @@
   </table>
 </div>
 
-[![LinkedIn](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=for-the-badge&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/dev-swati)
-[![Resume](https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=for-the-badge&logo=react&logo-color=white)](https://your-resume-link)
 ![](https://visitcount.itsvg.in/api?id=Swatified&label=Profile%20Views&color=10&icon=6&pretty=false)
+
+
