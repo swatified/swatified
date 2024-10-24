@@ -1,3 +1,5 @@
+
+[![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
