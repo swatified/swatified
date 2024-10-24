@@ -52,9 +52,7 @@
     </tr>
   </table>
 </div>
-<table style="border-collapse: collapse; border: 1px; width: 90%;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100vw; height: auto;">
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 90vw; height: auto;">
 
 [![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
