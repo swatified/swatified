@@ -15,13 +15,12 @@
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100vw; height: auto;">
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swatified&theme=tokyonight" height="270">
       </td>
       <td width="40%" align="center" valign="top">
         <table>
@@ -53,6 +52,6 @@
     </tr>
   </table>
 </div>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100vw; height: auto;">
 [![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
