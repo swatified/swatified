@@ -14,7 +14,7 @@
 
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
 
-![Swati's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=discord_old_blurple&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=discord_old_blurple&hide_border=true" style="width: 100vw; height: auto;">
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
