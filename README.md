@@ -52,7 +52,7 @@
     </tr>
   </table>
 </div>
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; border: 1px; width: 90%;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100vw; height: auto;">
 </table>
 
