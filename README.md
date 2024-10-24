@@ -1,5 +1,4 @@
 
-[![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
@@ -14,6 +13,7 @@
 </table>
 
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
+[![Swati's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=radical&hide_border=true)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
 
@@ -53,4 +53,6 @@
     </tr>
   </table>
 </div>
+
 [![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
