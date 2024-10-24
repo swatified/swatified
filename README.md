@@ -15,7 +15,7 @@
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100%; height: auto;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 180%; height: auto;">
 
 <div align="center">
   <table width="100%">
