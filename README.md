@@ -54,5 +54,6 @@
   </table>
 </div>
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/swatified/my-profile-views-counter)
-
+[![LinkedIn](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/dev-swati)
+[![Resume](https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white)](https://your-resume-link)
+![](https://visitcount.itsvg.in/api?id=Swatified&label=Profile%20Views&color=10&icon=6&pretty=false)
