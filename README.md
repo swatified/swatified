@@ -54,7 +54,7 @@
 </div>
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100vw; height: auto;">
-</table>table>
+</table>
 
 [![](https://visitcount.itsvg.in/api?id=swatified&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
