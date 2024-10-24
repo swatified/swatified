@@ -15,7 +15,7 @@
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 80vw; height: auto;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatified&theme=tokyonight&hide_border=true" style="width: 100%; height: auto;">
 
 <div align="center">
   <table width="100%">
@@ -54,6 +54,6 @@
   </table>
 </div>
 
-[![LinkedIn](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/dev-swati)
-[![Resume](https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white)](https://your-resume-link)
+[![LinkedIn](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=for-the-badge&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/dev-swati)
+[![Resume](https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=for-the-badge&logo=react&logo-color=white)](https://your-resume-link)
 ![](https://visitcount.itsvg.in/api?id=Swatified&label=Profile%20Views&color=10&icon=6&pretty=false)
