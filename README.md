@@ -53,6 +53,5 @@
   </table>
 </div>
 
-<div style="width: 100%;">
+
 ![GSSoC24_Stats](https://github.com/user-attachments/assets/8608acef-d575-49dc-aa35-b36b94b8d420)
-</div>
