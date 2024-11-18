@@ -16,6 +16,7 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
 <br>
 
+![GSSoC24_Stats](https://github.com/user-attachments/assets/8608acef-d575-49dc-aa35-b36b94b8d420)
 
 <div align="center">
   <table width="100%">
