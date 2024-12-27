@@ -19,7 +19,7 @@
 <!-- Activity Graph -->
 <a href="https://github.com/Wahid7852">
 <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=swatified&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=BF91F3&area_color=BF91F3&border_radius=22.5&title_color=BF91F3&border_radius=22px%22"/>
-</a><br/><br/>
+</a><br/>
 
 <div align="center">
   <table width="100%">
