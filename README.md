@@ -14,7 +14,12 @@
 
 [![An image of @swatified's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swatified)](https://holopin.io/@swatified)
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
-<br>
+<br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Wahid7852">
+<img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=swatified&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=BF91F3&area_color=BF91F3&border_radius=22.5&title_color=BF91F3&border_radius=22px%22"/>
+</a><br/>
 
 <div align="center">
   <table width="100%">
@@ -52,7 +57,3 @@
     </tr>
   </table>
 </div>
-<!-- Activity Graph -->
-<a href="https://github.com/Wahid7852">
-<img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=swatified&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=BF91F3&area_color=BF91F3&border_radius=22.5&title_color=BF91F3&border_radius=22px%22"/>
-</a><br/>
